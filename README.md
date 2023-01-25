@@ -2,4 +2,4 @@
 Riley Branting
 First Comment
 Testbranch Change
-New git branch on Github (now with comment)
+New git branch on Github (now with comment (now properly creating a branch))
